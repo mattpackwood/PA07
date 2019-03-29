@@ -1,6 +1,6 @@
 /* Matt Packwood, Orchard Ridge Campus, Monday Evening Class, Fall Semester 2003
  *
- * Computer PA07: Seperate PA05 into applet and model classes per model-view-controller
+ * PA07: Seperate PA05 into applet and model classes per model-view-controller
  * (MVC) paradigm from C9-10; PA07 behavior similar to PA05 
  *
  * The applet class creates widget and two model computer objects.
