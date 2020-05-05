@@ -1,2 +1,2 @@
 # PA07
-Code for Exercise 00 Java course at OCC
+Code for Exercise 07 Java course at OCC
